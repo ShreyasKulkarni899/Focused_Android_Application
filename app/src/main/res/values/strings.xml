@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Focused</string>
+    <string name="ambient">Ambient</string>
+    <string name="farm">Farm</string>
+    <string name="waves">Waves</string>
+    <string name="summer">Summer</string>
+    <string name="lo_fi">LoFi</string>
+    <string name="coding">Coding</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="let_s_go">Lets Go</string>
+    <string name="todo">TODO</string>
+    <string name="asmr">ASMR</string>
+    <string name="rain">Rain</string>
+    <string name="focused">Focused</string>
+    <string name="listen_to_music_and_relax">Listen to Music and Relax</string>
+    <string name="tranquility">Tranquility</string>
+    <string name="meditation">Meditation</string>
+    <string name="nature">Nature</string>
+
+</resources>
